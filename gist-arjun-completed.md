@@ -4,8 +4,6 @@ Regex is a way to translate and parse strings using particular values that have 
 
 ## Summary
 
-
-
 ^gray|grey$
 
 This will return a true boolean value since regex will associate the up arrow and dollar sign as anchors as how the value starts and ends.
